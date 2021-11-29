@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dikstra/catkin_ws/install/setup.sh
